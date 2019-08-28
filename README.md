@@ -1,2 +1,1 @@
-# uncc-acm.com
-A website for the UNCC ACM Chapter
+# MOVED: [acm-uncc/website](https://github.com/acm-uncc/website)
